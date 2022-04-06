@@ -1,1 +1,1 @@
-# bf16demo
+bf16demo: script and models
